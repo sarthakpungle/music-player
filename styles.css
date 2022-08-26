@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+	
+}
+
+h1{
+	color: aliceblue;
+	
+}
+
+h4{
+	color: antiquewhite;
+	
+}
+
+span{
+	color: aliceblue;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+img{
+	height: 200px;
+	width: 250px;
+	border-color: aliceblue;
+	border-style: double;
+}
+
+#s{
+	font-size: 30px;
+	text-decoration: solid;
+	color: black;
+	background-color: lightskyblue;
+	cursor: pointer;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 500;
+}
